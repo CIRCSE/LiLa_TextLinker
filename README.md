@@ -1,2 +1,2 @@
 # LiLa_TextLinker
-LiLa Text Linker
+LiLa Text Linker - Readme coming soon
