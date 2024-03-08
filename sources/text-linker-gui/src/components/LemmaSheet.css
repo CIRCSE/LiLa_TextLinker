@@ -1,0 +1,60 @@
+.sheets-container{
+    margin-top: 10px;
+    padding-top: 8px;
+    height: calc(100vh - 446px);
+    overflow: auto;
+    scrollbar-color: #808080 transparent;
+    scrollbar-width: 8px;
+}
+
+.sheets-container a{
+    color: orangered;
+}
+
+.sheets-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Track */
+.sheets-container::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 0px grey;
+    border-radius: 2px;
+}
+
+/* Handle */
+.sheets-container::-webkit-scrollbar-thumb {
+    background: #808080;
+    border-radius: 10px;
+}
+
+.lemma-sheet{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.lemma-sheet-header{
+    width: fit-content;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+}
+.lemma-sheet-content{
+    width: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgba(38, 38, 38, 0.38);
+    word-wrap: break-word;
+    line-height:16px
+}
+
+.lemma-sheet-content ul{
+    list-style: none;
+    list-style-position: outside;
+}
+
+.lemma-sheet-content ul > li{
+    margin-left: -30px;
+}
+
+.sheet-line-value{
+    color: orange;
+}

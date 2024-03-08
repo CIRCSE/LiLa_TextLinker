@@ -1,0 +1,28 @@
+.token{
+    cursor: pointer;
+    margin: 1px;
+    border-radius: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 100%;
+}
+
+
+.missing{
+    background-color: rgba(255, 69, 0, 0.5);
+}
+
+.direct{
+    background-color: rgba(142, 187, 142, 0.5);
+}
+
+.ambiguous{
+    background-color: rgba(106, 125, 156, 0.5);
+}
+
+/*.token::after{*/
+/*    content: attr(spaceAfter);*/
+/*    white-space: pre;*/
+/*}*/

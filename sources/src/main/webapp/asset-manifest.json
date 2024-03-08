@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ff9a218f.chunk.css",
+    "main.js": "./static/js/main.85e1b74e.chunk.js",
+    "main.js.map": "./static/js/main.85e1b74e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.00e0fc46.js",
+    "runtime-main.js.map": "./static/js/runtime-main.00e0fc46.js.map",
+    "static/js/2.c5b6da4f.chunk.js": "./static/js/2.c5b6da4f.chunk.js",
+    "static/js/2.c5b6da4f.chunk.js.map": "./static/js/2.c5b6da4f.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ff9a218f.chunk.css.map": "./static/css/main.ff9a218f.chunk.css.map",
+    "static/js/2.c5b6da4f.chunk.js.LICENSE.txt": "./static/js/2.c5b6da4f.chunk.js.LICENSE.txt",
+    "static/media/MainView.css": "./static/media/fontsfree-net-moonbold-webfont.aef33ec8.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00e0fc46.js",
+    "static/js/2.c5b6da4f.chunk.js",
+    "static/css/main.ff9a218f.chunk.css",
+    "static/js/main.85e1b74e.chunk.js"
+  ]
+}
