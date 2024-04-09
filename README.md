@@ -1,6 +1,6 @@
 # LiLa_TextLinker
 
-The LiLa Text Linker (<https://lila-erc.eu/LiLaTextLinker/> is a web application designed to assist users in the every step of the workflow to produce RDF editions of Latin texts fully integrated with the LiLa KB.
+The LiLa Text Linker (<https://lila-erc.eu/LiLaTextLinker/>) is a web application designed to assist users in the every step of the workflow to produce RDF editions of Latin texts fully integrated with the LiLa KB.
 The Text Linker integrates components to perform the text-processing stage, the manual editing and the creation of the RDF output.
 
 # Acknowledgments
